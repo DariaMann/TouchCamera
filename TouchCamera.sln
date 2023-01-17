@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exoa.Commons.Scripts.Touch", "Exoa.Commons.Scripts.Touch.csproj", "{fd3a9025-bbd9-2533-73ad-70ca07c51b1f}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exoa.TouchCameraPro.Scripts", "Exoa.TouchCameraPro.Scripts.csproj", "{18c0d68c-1005-5187-7578-1a98675a2ab5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{6c358de5-75ae-993a-04ca-4b41ca4a85ac}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exoa.Commons.Scripts.Maths", "Exoa.Commons.Scripts.Maths.csproj", "{eb7e0425-778e-faa2-eba3-057fc0ebc077}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exoa.Commons.Scripts.Extensions", "Exoa.Commons.Scripts.Extensions.csproj", "{60dab9d4-eb58-7569-8f5d-6a309154dd3f}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exoa.TouchCameraPro.Editor", "Exoa.TouchCameraPro.Editor.csproj", "{7ada883d-812d-af14-3f11-75e31a5cd99d}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{09527e23-d422-ea15-e1f7-d0c5ed17d489}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{fd3a9025-bbd9-2533-73ad-70ca07c51b1f}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{fd3a9025-bbd9-2533-73ad-70ca07c51b1f}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18c0d68c-1005-5187-7578-1a98675a2ab5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18c0d68c-1005-5187-7578-1a98675a2ab5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6c358de5-75ae-993a-04ca-4b41ca4a85ac}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6c358de5-75ae-993a-04ca-4b41ca4a85ac}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{eb7e0425-778e-faa2-eba3-057fc0ebc077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{eb7e0425-778e-faa2-eba3-057fc0ebc077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60dab9d4-eb58-7569-8f5d-6a309154dd3f}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60dab9d4-eb58-7569-8f5d-6a309154dd3f}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ada883d-812d-af14-3f11-75e31a5cd99d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ada883d-812d-af14-3f11-75e31a5cd99d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09527e23-d422-ea15-e1f7-d0c5ed17d489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09527e23-d422-ea15-e1f7-d0c5ed17d489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
