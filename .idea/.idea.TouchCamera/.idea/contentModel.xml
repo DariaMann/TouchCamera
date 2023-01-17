@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Daria\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Daria\.Rider2019.2\system\resharper-host\Local\Transient\ReSharperHost\v192\SolutionCaches\_TouchCamera.2022996190.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Daria\Desktop\TouchCamera" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Exoa" t="Include">
+          <e p="Common" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="Extensions" t="Include">
+                <e p="Exoa.Common.Scripts.Extensions.asmdef" t="Include" />
+                <e p="GameObjectExtensions.cs" t="Include" />
+                <e p="VectorExtensions.cs" t="Include" />
+              </e>
+              <e p="Maths" t="Include">
+                <e p="Acceleration.cs" t="Include" />
+                <e p="Exoa.Common.Scripts.Maths.asmdef" t="Include" />
+                <e p="Integrals.cs" t="Include" />
+                <e p="Move.cs" t="Include" />
+                <e p="SpringMaths.cs" t="Include" />
+              </e>
+              <e p="Touch" t="Include">
+                <e p="BaseTouchInput.cs" t="Include" />
+                <e p="Exoa.Common.Scripts.Touch.asmdef" t="Include" />
+                <e p="FingerData.cs" t="Include" />
+                <e p="FingerDown.cs" t="Include" />
+                <e p="FingerFilter.cs" t="Include" />
+                <e p="FingerSwipe.cs" t="Include" />
+                <e p="FingerTap.cs" t="Include" />
+                <e p="FingerUp.cs" t="Include" />
+                <e p="FingerUpdate.cs" t="Include" />
+                <e p="InputGesture.cs" t="Include" />
+                <e p="InputTouch.cs" t="Include" />
+                <e p="Plane.cs" t="Include" />
+                <e p="ScreenDepth.cs" t="Include" />
+                <e p="ScreenQuery.cs" t="Include" />
+                <e p="SelectableByFinger.cs" t="Include" />
+                <e p="SelectByFinger.cs" t="Include" />
+                <e p="SwipeBase.cs" t="Include" />
+                <e p="TouchCommon.cs" t="Include" />
+                <e p="TouchFinger.cs" t="Include" />
+                <e p="TouchHelper.cs" t="Include" />
+                <e p="TouchSelect.cs" t="Include" />
+                <e p="TouchSelectable.cs" t="Include" />
+                <e p="TouchSelectableBehaviour.cs" t="Include" />
+                <e p="TouchSimulator.cs" t="Include" />
+                <e p="TouchSnapshot.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="TouchCameraPro" t="Include">
+            <e p="Editor" t="Include">
+              <e p="CameraBaseEditor.cs" t="Include" />
+              <e p="CameraBounderiesEditor.cs" t="Include" />
+              <e p="CameraFreeEditor.cs" t="Include" />
+              <e p="CameraIsometricOrthoEditor.cs" t="Include" />
+              <e p="CameraModeSwitcherEditor.cs" t="Include" />
+              <e p="CameraPerspectiveEditor.cs" t="Include" />
+              <e p="CameraSideScrollOrthoEditor.cs" t="Include" />
+              <e p="CameraTopDownOrthoEditor.cs" t="Include" />
+              <e p="Exoa.TouchCameraPro.Editor.asmdef" t="Include" />
+              <e p="InputDetectorModule.cs" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="Camera" t="Include">
+                <e p="CameraBase.cs" t="Include" />
+                <e p="CameraBoundaries.cs" t="Include" />
+                <e p="CameraFree.cs" t="Include" />
+                <e p="CameraIsometricOrtho.cs" t="Include" />
+                <e p="CameraModeSwitcher.cs" t="Include" />
+                <e p="CameraOrthoBase.cs" t="Include" />
+                <e p="CameraPerspBase.cs" t="Include" />
+                <e p="CameraPerspective.cs" t="Include" />
+                <e p="CameraSideScrollOrtho.cs" t="Include" />
+                <e p="CameraTopDownOrtho.cs" t="Include" />
+                <e p="ITouchCamera.cs" t="Include" />
+                <e p="ITouchOrthoCamera.cs" t="Include" />
+                <e p="ITouchPerspCamera.cs" t="Include" />
+                <e p="TerrainModule.cs" t="Include" />
+              </e>
+              <e p="Events" t="Include">
+                <e p="CameraEvents.cs" t="Include" />
+              </e>
+              <e p="Exoa.TouchCameraPro.Scripts.asmdef" t="Include" />
+              <e p="Input" t="Include">
+                <e p="CameraInputs.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="TouchCameraPro-Demo" t="Include">
+            <e p="Grid" t="Include">
+              <e p="GridShader.shader" t="Include" />
+              <e p="GridShaderUNLIT.shader" t="Include" />
+              <e p="GridShaderUNLIT_v2.shader" t="Include" />
+            </e>
+            <e p="Packages" t="Include">
+              <e p="TextMesh Pro" t="Include">
+                <e p="Resources" t="Include">
+                  <e p="Fonts" t="Include">
+                    <e p="LiberationSans - OFL.txt" t="Include" />
+                  </e>
+                  <e p="LineBreaking Following Characters.txt" t="Include" />
+                  <e p="LineBreaking Leading Characters.txt" t="Include" />
+                  <e p="Shaders" t="Include">
+                    <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+                    <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+                    <e p="TMP_Bitmap.shader" t="Include" />
+                    <e p="TMP_SDF Overlay.shader" t="Include" />
+                    <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+                    <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+                    <e p="TMP_SDF-Mobile.shader" t="Include" />
+                    <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+                    <e p="TMP_SDF-Surface.shader" t="Include" />
+                    <e p="TMP_SDF.shader" t="Include" />
+                    <e p="TMP_Sprite.shader" t="Include" />
+                    <e p="TMPro.cginc" t="Include" />
+                    <e p="TMPro_Properties.cginc" t="Include" />
+                    <e p="TMPro_Surface.cginc" t="Include" />
+                  </e>
+                </e>
+                <e p="Sprites" t="Include">
+                  <e p="EmojiOne Attribution.txt" t="Include" />
+                  <e p="EmojiOne.json" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="ActionButton.cs" t="Include" />
+              <e p="CustomControlDemo.cs" t="Include" />
+              <e p="DemoMenu.cs" t="Include" />
+              <e p="FocusOnClick.cs" t="Include" />
+              <e p="FPSFixer.cs" t="Include" />
+              <e p="HelpPopup.cs" t="Include" />
+              <e p="OnClickFollowObject.cs" t="Include" />
+              <e p="OnClickMoveToObjPosition.cs" t="Include" />
+              <e p="OnClickMoveToPosition.cs" t="Include" />
+              <e p="OnClickSetResetValues.cs" t="Include" />
+              <e p="StopFocusingBtn.cs" t="Include" />
+              <e p="TestChangeGroundHeight.cs" t="Include" />
+              <e p="TooltipObject.cs" t="Include" />
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="Double Sided Standard Diffuse Bump.shader" t="Include" />
+              <e p="FadeByDistanceXYZ.shader" t="Include" />
+              <e p="FadeByDistanceXZ.shader" t="Include" />
+              <e p="UVFree" t="Include">
+                <e p="Legacy" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="UVFreeLegacyTopBottomGUI.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="Standard PBR" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="UVFreePBRShaderGUI.cs" t="Include" />
+                    <e p="UVFreePBRShaderTopBottomGUI.cs" t="Include" />
+                  </e>
+                  <e p="Standard Metallic" t="Include">
+                    <e p="UVFreeStandardMetallic.shader" t="Include" />
+                    <e p="UVFreeStandardMetallicTopBottom.shader" t="Include" />
+                  </e>
+                  <e p="Standard Metallic Terrain" t="Include">
+                    <e p="UVFreeTerrainStandardMetallic-AddPass.shader" t="Include" />
+                    <e p="UVFreeTerrainStandardMetallic-Base.shader" t="Include" />
+                    <e p="UVFreeTerrainStandardMetallic-FirstPass.shader" t="Include" />
+                  </e>
+                  <e p="Standard Specular" t="Include">
+                    <e p="UVFreeStandardSpecular.shader" t="Include" />
+                    <e p="UVFreeStandardSpecularTopBottom.shader" t="Include" />
+                  </e>
+                  <e p="Standard Specular Terrain" t="Include">
+                    <e p="UVFreeTerrainStandardSpecular-AddPass.shader" t="Include" />
+                    <e p="UVFreeTerrainStandardSpecular-Base.shader" t="Include" />
+                    <e p="UVFreeTerrainStandardspecular-FirstPass.shader" t="Include" />
+                  </e>
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="GUITile.cs" t="Include" />
+          <e p="GUITileController.cs" t="Include" />
+        </e>
+        <e p="StreamingAssets" t="Include">
+          <e p="UnityServicesProjectConfiguration.json" t="Include" />
+        </e>
+      </e>
+      <e p="Exoa.Commons.Scripts.Extensions.csproj" t="IncludeRecursive" />
+      <e p="Exoa.Commons.Scripts.Maths.csproj" t="IncludeRecursive" />
+      <e p="Exoa.Commons.Scripts.Touch.csproj" t="IncludeRecursive" />
+      <e p="Exoa.TouchCameraPro.Editor.csproj" t="IncludeRecursive" />
+      <e p="Exoa.TouchCameraPro.Scripts.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+      <e p="TouchCamera.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
